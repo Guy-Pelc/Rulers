@@ -1,5 +1,5 @@
 require "rulers/version"
-require "rulers/array"
+require "rulers/routing"
 
 module Rulers
   # Your code goes here...
